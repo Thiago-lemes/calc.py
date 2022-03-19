@@ -3,7 +3,11 @@ from tkinter import *
 from tkinter import ttk
 from turtle import color, width 
 
-color1 = "#060021"
+color1 = "#3b3b3b" #preto
+color2 = "#feffff" #branca
+color3 = "38576b" #azul
+color4 = "eceef1" #cinzenta
+color5 = "ffab40" #laranja
 window = Tk()
 window.title("Calculadora")
 #geometry vai defenir o tamanha da calculadora( largura e altura)
